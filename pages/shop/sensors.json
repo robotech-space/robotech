@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "image":"https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+    "title":"Sensor senorssss",
+    "price": 10,
+    "previousPrice": 100,
+    "description": "this is sensor",
+    "brand": "product",
+    "quantity": 1
+  }
+]
