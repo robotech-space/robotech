@@ -2,6 +2,7 @@
   {
   "id":1,
     "title":"Slide one",
+    "image":"https://i.pinimg.com/originals/2c/14/a3/2c14a3d04bc20f7bfb97f0873dd56fb3.png",
     "description":"this is description",
     "link_text":"Go to shop",
     "link_url":"/shop"
