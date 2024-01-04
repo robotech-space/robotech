@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "image":"https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+    "title":"How to make a car?",
+    "price": 1000,
+    "previousPrice": 1100,
+    "description": "learn how to make a car from scratch",
+    "brand": "Workshop",
+    "quantity": 1
+  }
+]
