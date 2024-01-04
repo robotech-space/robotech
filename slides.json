@@ -1,10 +1,27 @@
 [
+ 
   {
-  "id":1,
-    "title":"Slide one",
-    "image":"https://i.pinimg.com/originals/2c/14/a3/2c14a3d04bc20f7bfb97f0873dd56fb3.png",
-    "description":"this is description",
-    "link_text":"Go to shop",
-    "link_url":"/shop"
-}
+    "id": 2,
+    "title": "Browse tons of electronic components",
+    "image": "https://i.pinimg.com/originals/2c/14/a3/2c14a3d04bc20f7bfb97f0873dd56fb3.png",
+    "description": "Explore our latest collection of electronic components and gadgets. Find everything you need for your DIY projects and more.",
+    "link_text": "View products",
+    "link_url": "/"
+  },
+  {
+    "id": 3,
+    "title": "Our Courses",
+    "image": "https://th.bing.com/th/id/R.56dc6afcb72b30d20dee98b2deb5902d?rik=ojeUKaWgvpO0pg&pid=ImgRaw&r=0",
+    "description": "Join to our courses to learn how things work",
+    "link_text": "Courses",
+    "link_url": "/courses"
+  },
+  {
+    "id": 4,
+    "title": "Bring things to life",
+    "image": "https://www.pngall.com/wp-content/uploads/1/Life-PNG-Photo.png",
+    "description": "Ask for our 3d print services",
+    "link_text": "3d print",
+    "link_url": "/3d"
+  }
 ]
