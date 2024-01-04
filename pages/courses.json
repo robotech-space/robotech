@@ -1,12 +1,52 @@
 [
-  {
-    "id":1,
-    "image":"https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-    "title":"How to make a car?",
-    "price": 1000,
-    "previousPrice": 1100,
-    "description": "learn how to make a car from scratch",
-    "brand": "Workshop",
-    "quantity": 1
-  }
+    {
+        "id": 1,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "How to make an Arduino car from scratch?",
+        "price": 1000,
+        "previousPrice": 1100,
+        "description": "Learn how to create a customized Arduino-powered car from scratch. This course covers the basics of electronics, programming, and mechanical assembly to bring your own robotic car to life.",
+        "brand": "Workshop",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "Internet of Things (IoT) Fundamentals",
+        "price": 1200,
+        "previousPrice": 1300,
+        "description": "Explore the world of IoT and learn how to build connected devices. This course covers sensor integration, data communication, and IoT application development.",
+        "brand": "TechLab Academy",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "Advanced Electronics Design",
+        "price": 1500,
+        "previousPrice": 1600,
+        "description": "Take your electronics design skills to the next level. This course focuses on circuit design, PCB layout, and practical implementation of advanced electronic systems.",
+        "brand": "CircuitCrafters Institute",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "Robotics Masterclass: Building and Programming Robots",
+        "price": 1800,
+        "previousPrice": 2000,
+        "description": "Delve into the fascinating world of robotics. Learn to build and program robots for various applications, from simple tasks to complex movements.",
+        "brand": "RoboTech University",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "Embedded Systems Development",
+        "price": 1100,
+        "previousPrice": 1200,
+        "description": "Master the art of embedded systems programming. This course covers microcontroller programming, real-time systems, and interfacing with peripherals.",
+        "brand": "EmbeddedTech Academy",
+        "quantity": 1
+    }
 ]
