@@ -15,7 +15,7 @@
         "title": "Internet of Things (IoT) Fundamentals",
         "price": 1200,
         "previousPrice": 1300,
-        "description": "Explore the world of IoT and learn how to build connected devices. This course covers sensor integration, data communication, and IoT application development.",
+        "description": "Explore the world of IoT and learn how to build connected devices. This course covers sensor integration, data communication, and IoT application development. Gain hands-on experience with popular IoT platforms.",
         "brand": "TechLab Academy",
         "quantity": 1
     },
@@ -25,28 +25,60 @@
         "title": "Advanced Electronics Design",
         "price": 1500,
         "previousPrice": 1600,
-        "description": "Take your electronics design skills to the next level. This course focuses on circuit design, PCB layout, and practical implementation of advanced electronic systems.",
+        "description": "Take your electronics design skills to the next level. This course focuses on circuit design, PCB layout, and practical implementation of advanced electronic systems. Learn industry-standard tools for schematic capture and PCB design.",
         "brand": "CircuitCrafters Institute",
         "quantity": 1
     },
+
+    
     {
         "id": 4,
         "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
         "title": "Robotics Masterclass: Building and Programming Robots",
         "price": 1800,
         "previousPrice": 2000,
-        "description": "Delve into the fascinating world of robotics. Learn to build and program robots for various applications, from simple tasks to complex movements.",
+        "description": "Delve into the fascinating world of robotics. Learn to build and program robots for various applications, from simple tasks to complex movements. Understand the principles of kinematics and dynamics in robotics.",
         "brand": "RoboTech University",
         "quantity": 1
     },
     {
         "id": 5,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "image": "https://example.com/embedded_systems.png",
         "title": "Embedded Systems Development",
         "price": 1100,
         "previousPrice": 1200,
-        "description": "Master the art of embedded systems programming. This course covers microcontroller programming, real-time systems, and interfacing with peripherals.",
+        "description": "Master the art of embedded systems programming. This course covers microcontroller programming, real-time systems, and interfacing with peripherals. Explore the design considerations for reliable and efficient embedded systems.",
         "brand": "EmbeddedTech Academy",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "Electronic Circuits and Components",
+        "price": 900,
+        "previousPrice": 1000,
+        "description": "Gain a comprehensive understanding of electronic circuits and components. This course covers analog and digital circuit analysis, semiconductor devices, and practical circuit building exercises.",
+        "brand": "ElectroMinds Education",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "Arduino Programming Essentials",
+        "price": 750,
+        "previousPrice": 800,
+        "description": "Learn the fundamentals of programming with Arduino. This course is suitable for beginners and covers topics such as syntax, control structures, and interfacing with sensors and actuators.",
+        "brand": "CodeCraft Academy",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+        "title": "Circuit Simulation and Analysis",
+        "price": 950,
+        "previousPrice": 1100,
+        "description": "Master the art of simulating and analyzing electronic circuits. This course introduces simulation tools for circuit analysis, transient response, and frequency domain analysis.",
+        "brand": "SimuTech Solutions",
         "quantity": 1
     }
 ]
