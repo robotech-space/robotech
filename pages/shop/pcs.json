@@ -1,1 +1,12 @@
-
+[
+  {
+    "id":1,
+    "image":"https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+    "title":"PCS",
+    "price": 10,
+    "previousPrice": 100,
+    "description": "this is pcs",
+    "category": "pcs",
+    "quantity": 1
+  }
+]
