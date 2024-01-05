@@ -19,5 +19,12 @@
     "description": "Enroll in our electronic courses and enhance your skills. Whether you're a beginner looking to understand the basics or an experienced engineer seeking advanced knowledge, our courses cater to all levels. Dive into the world of electronics and stay ahead in this ever-evolving field.",
     "link_url": "/courses",
     "link_text": "View Courses"
+  },
+  {
+    "id": "1012",
+    "title": "FAQ (Frequently Asked Questions)",
+    "description": "Explore our FAQ section to find answers to common questions. Learn more about our products, services, and policies. If you have a specific inquiry, check our FAQ for quick information. Can't find what you're looking for? Feel free to contact us for personalized assistance.",
+    "link_url": "/faq",
+    "link_text": "Visit FAQ"
   }
 ]
