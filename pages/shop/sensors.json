@@ -6,7 +6,7 @@
     "price": 10,
     "previousPrice": 100,
     "description": "this is sensor",
-    "brand": "product",
+    "category": "product",
     "quantity": 1
   }
 ]
