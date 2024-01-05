@@ -1,9 +1,23 @@
 [
   {
-    "id": "string",
-     "title": "string",
-      "description": "string",
-      "link_url": "string",
-      "link_text": "string"
+    "id": "2544",
+    "title": "3D Printing",
+    "description": "Print any design you need in 3D. Our 3D printing services offer high-quality prints with a variety of materials. Whether you're prototyping a new product or creating custom designs, we've got you covered. Just ask for a new print and bring your ideas to life.",
+    "link_url": "/3d",
+    "link_text": "Learn More"
+  },
+  {
+    "id": "3678",
+    "title": "Electronic Components",
+    "description": "Explore a wide range of electronic components for your projects. From resistors and capacitors to microcontrollers and sensors, we provide top-quality components to fuel your innovations. Browse our collection and find the perfect parts for your electronic endeavors.",
+    "link_url": "/",
+    "link_text": "Shop Now"
+  },
+  {
+    "id": "4590",
+    "title": "Electronic Courses",
+    "description": "Enroll in our electronic courses and enhance your skills. Whether you're a beginner looking to understand the basics or an experienced engineer seeking advanced knowledge, our courses cater to all levels. Dive into the world of electronics and stay ahead in this ever-evolving field.",
+    "link_url": "/courses",
+    "link_text": "View Courses"
   }
 ]
