@@ -1,84 +1,42 @@
 [
-    {
-        "id": 1,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-        "title": "How to make an Arduino car from scratch?",
-        "price": 1000,
-        "previousPrice": 1100,
-        "description": "Learn how to create a customized Arduino-powered car from scratch. This course covers the basics of electronics, programming, and mechanical assembly to bring your own robotic car to life.",
-        "brand": "Workshop",
-        "quantity": 1
-    },
-    {
-        "id": 2,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-        "title": "Internet of Things (IoT) Fundamentals",
-        "price": 1200,
-        "previousPrice": 1300,
-        "description": "Explore the world of IoT and learn how to build connected devices. This course covers sensor integration, data communication, and IoT application development. Gain hands-on experience with popular IoT platforms.",
-        "brand": "TechLab Academy",
-        "quantity": 1
-    },
-    {
-        "id": 3,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-        "title": "Advanced Electronics Design",
-        "price": 1500,
-        "previousPrice": 1600,
-        "description": "Take your electronics design skills to the next level. This course focuses on circuit design, PCB layout, and practical implementation of advanced electronic systems. Learn industry-standard tools for schematic capture and PCB design.",
-        "brand": "CircuitCrafters Institute",
-        "quantity": 1
-    },
-
-    
-    {
-        "id": 4,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-        "title": "Robotics Masterclass: Building and Programming Robots",
-        "price": 1800,
-        "previousPrice": 2000,
-        "description": "Delve into the fascinating world of robotics. Learn to build and program robots for various applications, from simple tasks to complex movements. Understand the principles of kinematics and dynamics in robotics.",
-        "brand": "RoboTech University",
-        "quantity": 1
-    },
-    {
-        "id": 5,
-        "image": "https://example.com/embedded_systems.png",
-        "title": "Embedded Systems Development",
-        "price": 1100,
-        "previousPrice": 1200,
-        "description": "Master the art of embedded systems programming. This course covers microcontroller programming, real-time systems, and interfacing with peripherals. Explore the design considerations for reliable and efficient embedded systems.",
-        "brand": "EmbeddedTech Academy",
-        "quantity": 1
-    },
-    {
-        "id": 6,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-        "title": "Electronic Circuits and Components",
-        "price": 900,
-        "previousPrice": 1000,
-        "description": "Gain a comprehensive understanding of electronic circuits and components. This course covers analog and digital circuit analysis, semiconductor devices, and practical circuit building exercises.",
-        "brand": "ElectroMinds Education",
-        "quantity": 1
-    },
-    {
-        "id": 7,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-        "title": "Arduino Programming Essentials",
-        "price": 750,
-        "previousPrice": 800,
-        "description": "Learn the fundamentals of programming with Arduino. This course is suitable for beginners and covers topics such as syntax, control structures, and interfacing with sensors and actuators.",
-        "brand": "CodeCraft Academy",
-        "quantity": 1
-    },
-    {
-        "id": 8,
-        "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-        "title": "Circuit Simulation and Analysis",
-        "price": 950,
-        "previousPrice": 1100,
-        "description": "Master the art of simulating and analyzing electronic circuits. This course introduces simulation tools for circuit analysis, transient response, and frequency domain analysis.",
-        "brand": "SimuTech Solutions",
-        "quantity": 1
-    }
+{
+    "id": 26,
+    "image": "https://example.com/electronics_course_1.png",
+    "title": "Electronics Fundamentals",
+    "price": 20,
+    "previousPrice": 25,
+    "description": "Master the basics of electronics. This course covers circuit theory, components, and introductory electronics concepts.",
+    "brand": "TechSkills Academy",
+    "quantity": 1
+  },
+  {
+    "id": 27,
+    "image": "https://example.com/electronics_course_2.png",
+    "title": "Advanced PCB Design",
+    "price": 35,
+    "previousPrice": 40,
+    "description": "Dive into the intricacies of PCB design. Learn advanced techniques, layout considerations, and industry best practices.",
+    "brand": "CircuitCrafters Institute",
+    "quantity": 1
+  },
+  {
+    "id": 28,
+    "image": "https://example.com/electronics_course_3.png",
+    "title": "Microcontroller Programming",
+    "price": 30,
+    "previousPrice": 35,
+    "description": "Explore the world of microcontrollers. This course guides you through programming and interfacing microcontrollers for various applications.",
+    "brand": "CodeCraft Education",
+    "quantity": 1
+  }
 ]
+This expanded list now includes courses in the electronic field such as Electronics Fundamentals, Advanced PCB Design, and Microcontroller Programming. Adjust the details and add more courses based on your specific offerings in the electronic field.
+
+
+
+
+
+
+Message ChatGPT…
+
+ChatGPT can make mistakes. Consider checking important 
