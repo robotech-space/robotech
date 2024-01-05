@@ -6,7 +6,7 @@
     "price": 20,
     "previousPrice": 25,
     "description": "Master the basics of electronics. This course covers circuit theory, components, and introductory electronics concepts.",
-    "brand": "TechSkills Academy",
+    "category": "courses",
     "quantity": 1
   },
   {
@@ -16,7 +16,7 @@
     "price": 35,
     "previousPrice": 40,
     "description": "Dive into the intricacies of PCB design. Learn advanced techniques, layout considerations, and industry best practices.",
-    "brand": "CircuitCrafters Institute",
+    "category": "courses",
     "quantity": 1
   },
   {
@@ -26,5 +26,5 @@
     "price": 30,
     "previousPrice": 35,
     "description": "Explore the world of microcontrollers. This course guides you through programming and interfacing microcontrollers for various applications.",
-    "brand": "CodeCraft Education",
+    "category": "courses",
     "quantity":1}]
