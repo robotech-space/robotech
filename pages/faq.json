@@ -1,14 +1,30 @@
 [
   {
-    "question":"Paypal allowed?",
-    "answer": "yes "
+    "question": "What types of 3D printing materials do you offer?",
+    "answer": "We offer a variety of 3D printing materials, including PLA, ABS, PETG, and more. Each material has its unique properties, and we can help you choose the right one for your project."
   },
-   {
-    "question":"Card allowed?",
-    "answer": "No "
+  {
+    "question": "How can I track my electronic components order?",
+    "answer": "Once your order is shipped, you will receive a tracking number via email. You can use this tracking number to monitor the status and location of your electronic components order."
   },
-     {
-    "question":"Mama is here?",
-    "answer": "Absolutle "
+  {
+    "question": "Are there prerequisites for enrolling in electronic courses?",
+    "answer": "Our electronic courses cater to all skill levels. Whether you're a beginner or an experienced engineer, you can enroll in our courses. No specific prerequisites are required, and our courses cover a wide range of topics."
+  },
+  {
+    "question": "Can I customize the prototyping materials for my project?",
+    "answer": "Yes, you can customize the prototyping materials based on your project requirements. We offer a selection of materials, and our team can assist you in choosing the best options for your custom prototyping needs."
+  },
+  {
+    "question": "How do I get in touch with your customer support?",
+    "answer": "You can contact our customer support team by visiting the 'Contact Us' page on our website. We are available to assist you with any questions, concerns, or inquiries you may have."
+  },
+  {
+    "question": "Is there a warranty on the electronic components?",
+    "answer": "Yes, we offer a warranty on our electronic components. The warranty period and terms may vary based on the specific product. Please refer to the product documentation or contact our customer support for detailed warranty information."
+  },
+  {
+    "question": "Where can I find more information about your electronic courses?",
+    "answer": "You can find detailed information about our electronic courses on the 'Courses' page of our website. Each course has its curriculum, prerequisites, and enrollment details listed. If you have specific questions, feel free to reach out to our team."
   }
 ]
