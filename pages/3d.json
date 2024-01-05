@@ -1,15 +1,5 @@
 [
   {
-    "id": 21,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0E2bMSrxH4zh20xR82u3PS0fD95A30OvlSQ&usqp=CAU",
-    "title": "Print 3D Models",
-    "price": 10,
-    "previousPrice": 20,
-    "description": "Print any design you need for just 10 EGP per second. High-quality 3D printing services for your custom designs.",
-    "brand": "Print Services",
-    "quantity": 1
-  },
-  {
     "id": 22,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShsf4dwDu665883U-in8p-Bot8F60ogj1PcQ&usqp=CAU",
     "title": "Custom Prototyping",
