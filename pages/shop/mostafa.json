@@ -6,7 +6,7 @@
     "price": 10,
     "previousPrice": 20,
     "description": "IC SOCKET Base 16 PIN DIP",
-    "category": "ics",
+    "category": "mostafa",
     "quantity": 1
   },
   {
@@ -16,7 +16,7 @@
     "price": 15,
     "previousPrice": 25,
     "description": "Assorted resistor kit for electronic projects",
-    "category": "ics",
+    "category": "mostafa",
     "quantity": 1
   },
   {
@@ -26,7 +26,7 @@
     "price": 30,
     "previousPrice": 40,
     "description": "Arduino Uno R3 - Microcontroller board for prototyping",
-    "category": "ics",
+    "category": "mostafa",
     "quantity": 1
   },
   {
@@ -36,7 +36,7 @@
     "price": 12,
     "previousPrice": 18,
     "description": "16x2 character LCD display for Arduino and Raspberry Pi",
-    "category": "ics",
+    "category": "mostafa",
     "quantity": 1
   },
   {
@@ -46,7 +46,7 @@
     "price": 8,
     "previousPrice": 15,
     "description": "ESP8266 WiFi module for IoT projects",
-    "category": "ics",
+    "category": "mostafa",
     "quantity": 1
   }
 ]
