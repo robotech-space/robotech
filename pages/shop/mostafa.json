@@ -1,1 +1,52 @@
-
+[
+  {
+    "id": 1,
+    "image": "https://raspberry.com.ua/data/uploads/2015/04/Adafruit_DPI_TFT_Kippah_for_Raspberry_Pi_with_Touch_Support_2-150x150.jpg",
+    "title": "IC SOCKET Base 16 PIN DIP",
+    "price": 10,
+    "previousPrice": 20,
+    "description": "IC SOCKET Base 16 PIN DIP",
+    "category": "ics",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "image": "https://raspberry.com.ua/data/uploads/2013/10/1489_LRG-150x150.jpg",
+    "title": "Resistor Kit - Assorted Values",
+    "price": 15,
+    "previousPrice": 25,
+    "description": "Assorted resistor kit for electronic projects",
+    "category": "ics",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "image": "https://raspberry.com.ua/data/uploads/2013/09/951_LRG-150x150.jpg",
+    "title": "Arduino Uno R3",
+    "price": 30,
+    "previousPrice": 40,
+    "description": "Arduino Uno R3 - Microcontroller board for prototyping",
+    "category": "ics",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "image": "https://th.bing.com/th/id/R.923019d35142b9e66241be759a0964fe?rik=Bgd4Jp%2b8lS3tVw&pid=ImgRaw&r=0",
+    "title": "LCD 1602 Display",
+    "price": 12,
+    "previousPrice": 18,
+    "description": "16x2 character LCD display for Arduino and Raspberry Pi",
+    "category": "ics",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "image": "https://th.bing.com/th/id/R.98fe666a4caa02155c588328dd8428a6?rik=rL7sT%2f4el6JFfA&pid=ImgRaw&r=0",
+    "title": "ESP8266 WiFi Module",
+    "price": 8,
+    "previousPrice": 15,
+    "description": "ESP8266 WiFi module for IoT projects",
+    "category": "ics",
+    "quantity": 1
+  }
+]
