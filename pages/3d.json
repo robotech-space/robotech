@@ -1,12 +1,52 @@
 [
   {
-    "id":21,
-    "image":"https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-    "title":"Print anything 3d",
+    "id": 21,
+    "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+    "title": "Print 3D Models",
     "price": 10,
     "previousPrice": 20,
-    "description": "learn how to print anything",
-    "brand": "Service",
+    "description": "Print any design you need for just 10 EGP per second. High-quality 3D printing services for your custom designs.",
+    "brand": "Print Services",
+    "quantity": 1
+  },
+  {
+    "id": 22,
+    "image": "https://example.com/3d_printing_service_2.png",
+    "title": "Custom Prototyping",
+    "price": 15,
+    "previousPrice": 25,
+    "description": "Transform your ideas into physical prototypes. Our 3D printing service offers precise and fast prototyping for your inventions.",
+    "brand": "InnovatePrints",
+    "quantity": 1
+  },
+  {
+    "id": 23,
+    "image": "https://example.com/3d_printing_service_3.png",
+    "title": "Architectural Models",
+    "price": 25,
+    "previousPrice": 30,
+    "description": "Create detailed architectural models with our 3D printing service. Ideal for architects and designers looking to showcase their projects.",
+    "brand": "ArchitectPrints",
+    "quantity": 1
+  },
+  {
+    "id": 24,
+    "image": "https://example.com/3d_printing_service_4.png",
+    "title": "Personalized Gifts",
+    "price": 12,
+    "previousPrice": 15,
+    "description": "Give unique and personalized gifts. Our 3D printing service can turn your imaginative ideas into memorable and customized items.",
+    "brand": "GiftPrints",
+    "quantity": 1
+  },
+  {
+    "id": 25,
+    "image": "https://example.com/3d_printing_service_5.png",
+    "title": "Medical Models",
+    "price": 30,
+    "previousPrice": 35,
+    "description": "Assist medical professionals with accurate 3D-printed medical models. Our service ensures precision and detail for medical applications.",
+    "brand": "MediPrint Solutions",
     "quantity": 1
   }
 ]
