@@ -6,7 +6,7 @@
     "price": 15,
     "previousPrice": 25,
     "description": "Transform your ideas into physical prototypes. Our 3D printing service offers precise and fast prototyping for your inventions.",
-    "brand": "InnovatePrints",
+    "category": "InnovatePrints",
     "quantity": 1
   },
   {
@@ -16,7 +16,7 @@
     "price": 25,
     "previousPrice": 30,
     "description": "Create detailed architectural models with our 3D printing service. Ideal for architects and designers looking to showcase their projects.",
-    "brand": "ArchitectPrints",
+    "category": "ArchitectPrints",
     "quantity": 1
   },
   {
@@ -26,7 +26,7 @@
     "price": 12,
     "previousPrice": 15,
     "description": "Give unique and personalized gifts. Our 3D printing service can turn your imaginative ideas into memorable and customized items.",
-    "brand": "GiftPrints",
+    "category": "GiftPrints",
     "quantity": 1
   },
   {
@@ -36,7 +36,7 @@
     "price": 30,
     "previousPrice": 35,
     "description": "Assist medical professionals with accurate 3D-printed medical models. Our service ensures precision and detail for medical applications.",
-    "brand": "MediPrint Solutions",
+    "category": "MediPrint Solutions",
     "quantity": 1
   }
 ]
